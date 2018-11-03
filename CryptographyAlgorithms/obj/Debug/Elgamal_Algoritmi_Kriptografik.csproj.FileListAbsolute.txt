@@ -1,0 +1,16 @@
+C:\Users\dardan.sojeva\Desktop\CryptographyAlgorithms-master\CryptographyAlgorithms\bin\Debug\CryptographyAlgorithms.exe.config
+C:\Users\dardan.sojeva\Desktop\CryptographyAlgorithms-master\CryptographyAlgorithms\bin\Debug\CryptographyAlgorithms.exe
+C:\Users\dardan.sojeva\Desktop\CryptographyAlgorithms-master\CryptographyAlgorithms\bin\Debug\CryptographyAlgorithms.pdb
+C:\Users\dardan.sojeva\Desktop\CryptographyAlgorithms-master\CryptographyAlgorithms\obj\Debug\CryptographyAlgorithms.RrethAlgoritmitElgamal.resources
+C:\Users\dardan.sojeva\Desktop\CryptographyAlgorithms-master\CryptographyAlgorithms\obj\Debug\CryptographyAlgorithms.Elgamal_Gjenerimi_Qelesave.resources
+C:\Users\dardan.sojeva\Desktop\CryptographyAlgorithms-master\CryptographyAlgorithms\obj\Debug\CryptographyAlgorithms.Properties.Resources.resources
+C:\Users\dardan.sojeva\Desktop\CryptographyAlgorithms-master\CryptographyAlgorithms\obj\Debug\CryptographyAlgorithms.FormaStartuese.resources
+C:\Users\dardan.sojeva\Desktop\CryptographyAlgorithms-master\CryptographyAlgorithms\obj\Debug\Elgamal_Algoritmi_Kriptografik.csproj.GenerateResource.Cache
+C:\Users\dardan.sojeva\Desktop\CryptographyAlgorithms-master\CryptographyAlgorithms\obj\Debug\CryptographyAlgorithms.exe
+C:\Users\dardan.sojeva\Desktop\CryptographyAlgorithms-master\CryptographyAlgorithms\obj\Debug\CryptographyAlgorithms.pdb
+C:\Users\dardan.sojeva\Desktop\CryptographyAlgorithms-master\CryptographyAlgorithms\obj\Debug\CryptographyAlgorithms.Elgamal_Enkriptimi.resources
+C:\Users\dardan.sojeva\Desktop\CryptographyAlgorithms-master\CryptographyAlgorithms\obj\Debug\ElgamalAgoritmi.Elgamal_Dekriptimi.resources
+C:\Users\dardan.sojeva\Desktop\CryptographyAlgorithms-master\CryptographyAlgorithms\obj\Debug\Elgamal_Algoritmi_Kriptografik.csprojResolveAssemblyReference.cache
+C:\Users\dardan.sojeva\Desktop\ELGAMAL\CryptographyAlgorithms\bin\Debug\CryptographyAlgorithms.exe.config
+C:\Users\dardan.sojeva\Desktop\ELGAMAL\CryptographyAlgorithms\obj\Debug\CryptographyAlgorithms.exe
+C:\Users\dardan.sojeva\Desktop\ELGAMAL\CryptographyAlgorithms\obj\Debug\CryptographyAlgorithms.pdb
